@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I am a newly graduated Software Engineer with a strong passion for building modern web and mobile applications. I enjoy solving real-world problems through clean, efficient, and scalable code, and I am currently seeking an internship opportunity to further develop my skills and grow within the software industry. Additionally, I have a deep interest in Artificial Intelligence and Data Science, and I am eager to expand my knowledge and expertise in these fields.
+**I am a newly graduated Software Engineer with a strong passion for building modern web and mobile applications. I enjoy solving real-world problems through clean, efficient, and scalable code, and I am currently seeking an internship opportunity to further develop my skills and grow within the software industry. Additionally, I have a deep interest in Artificial Intelligence and Data Science, and I am eager to expand my knowledge and expertise in these fields.**
 ---
 
 ## 💻 Technical Interests
