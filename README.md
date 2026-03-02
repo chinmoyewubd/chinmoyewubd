@@ -2,9 +2,9 @@
 
 <div align="center" style="background: linear-gradient(90deg, #4e73df, #1cc88a); padding: 40px 20px; border-radius: 12px;">
 
-# Hi 👋, I'm Chinmoy Karmakar
+# Hi, I'm Chinmoy Karmakar
 
-### New Graduate Software Engineer | Web & Mobile App Developer | AI & Data Science Enthusiast
+### Software Engineer | Web & Mobile App Developer | AI & Data Science Enthusiast
 
 <br>
 
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="mailto:your_email_here@gmail.com">
+<a href="mailto:chinmoykarmakar2025@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
 
