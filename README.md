@@ -1,16 +1,12 @@
 <!-- Profile Banner -->
 <h1 align="center">Hi 👋, I'm Chinmoy Karmakar</h1>
-<h3 align="center">New Graduate Software Engineer | Web & Mobile App Developer | AI & Data Science Enthusiast</h3>
+<h3 align="center">Software Engineer | Web & Mobile App Developer | AI & Data Science Enthusiast</h3>
 
 ---
 
 ## 🚀 About Me
 
-🎓 I am a newly graduated Software Engineer with a strong passion for building modern web and mobile applications.  
-💡 I enjoy solving real-world problems through clean and scalable code.  
-🌱 Currently seeking an internship opportunity to develop my skills and grow in the software industry.  
-🤖 Deeply interested in Artificial Intelligence and Data Science.  
-
+I am a newly graduated Software Engineer with a strong passion for building modern web and mobile applications. I enjoy solving real-world problems through clean, efficient, and scalable code, and I am currently seeking an internship opportunity to further develop my skills and grow within the software industry. Additionally, I have a deep interest in Artificial Intelligence and Data Science, and I am eager to expand my knowledge and expertise in these fields.
 ---
 
 ## 💻 Technical Interests
