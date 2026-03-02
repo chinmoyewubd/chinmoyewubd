@@ -13,7 +13,7 @@
 </a>
 
 <a href="mailto:chinmoykarmakar2025@gmail.com">
-  <img src="https://img.shields.io/badge/Email -red?style=for-the-badge&logo=gmail" />
+  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
 </a>
 
 <a href="tel:01756012884">
